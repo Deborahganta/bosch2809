@@ -1,0 +1,54 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/iofiles"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/EInt1.c" FileDate="2022-10-18, 14:19:34" FileAge="1666082974764" FileType="45637" CompNumb="10" />
+      <File Name="Documentation/doxygen/BitIoLdd1.txt" FileDate="2022-10-18, 14:13:43" FileAge="1666082623774" FileType="45637" CompNumb="7" />
+      <File Name="Generated_Code/Red.h" FileDate="2022-10-18, 14:13:43" FileAge="1666082623758" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/BitIoLdd2.h" FileDate="2022-10-18, 14:23:32" FileAge="1666083212560" FileType="45637" CompNumb="9" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2022-10-18, 14:08:37" FileAge="1666082317946" FileType="8" CompNumb="2" />
+      <File Name="Generated_Code/Red.c" FileDate="2022-10-18, 14:13:43" FileAge="1666082623758" FileType="45637" CompNumb="6" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2022-10-18, 14:08:37" FileAge="1666082317870" FileType="16384" CompNumb="2" />
+      <File Name="Generated_Code/BitIoLdd2.c" FileDate="2022-10-18, 14:23:32" FileAge="1666083212574" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2022-10-18, 14:13:43" FileAge="1666082623806" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/BitIoLdd1.h" FileDate="2022-10-18, 14:13:43" FileAge="1666082623774" FileType="45637" CompNumb="7" />
+      <File Name="Sources/ProcessorExpert.c" FileDate="2022-10-18, 14:13:43" FileAge="1666082623795" FileType="128" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2022-10-18, 14:18:21" FileAge="1666082901289" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/doxygen/ExtIntLdd1.txt" FileDate="2022-10-18, 14:23:32" FileAge="1666083212600" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/BitIoLdd1.c" FileDate="2022-10-18, 14:13:43" FileAge="1666082623774" FileType="45637" CompNumb="7" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2022-10-18, 14:08:37" FileAge="1666082317968" FileType="45637" />
+      <File Name="Sources/Events.h" FileDate="2022-10-18, 14:13:43" FileAge="1666082623806" FileType="131328" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2022-10-18, 14:13:43" FileAge="1666082623784" FileType="45637" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2022-10-18, 14:08:37" FileAge="1666082317969" FileType="45637" />
+      <File Name="Sources/Events.c" FileDate="2022-10-18, 14:23:24" FileAge="1666083204416" FileType="131328" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2022-10-18, 14:08:37" FileAge="1666082317955" FileType="45637" CompNumb="2" />
+      <File Name="Project_Settings/Debugger/MKL25Z128.mem" FileDate="2022-10-18, 14:08:37" FileAge="1666082317953" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/ProcessorExpert_Settings.xml" FileDate="2022-10-18, 14:23:32" FileAge="1666083212626" FileType="3072" />
+      <File Name="Documentation/doxygen/BitIoLdd2.txt" FileDate="2022-10-18, 14:23:32" FileAge="1666083212584" FileType="45637" CompNumb="9" />
+      <File Name="Documentation/ProcessorExpert_SIGNALS.txt" FileDate="2022-10-18, 14:23:32" FileAge="1666083212619" FileType="3072" />
+      <File Name="Documentation/doxygen/ProcessorExpert.txt" FileDate="2022-10-18, 14:13:43" FileAge="1666082623803" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2022-10-18, 14:08:37" FileAge="1666082317961" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/ProcessorExpert.txt" FileDate="2022-10-18, 14:23:32" FileAge="1666083212634" FileType="3072" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2022-10-18, 14:08:37" FileAge="1666082317956" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2022-10-18, 14:08:37" FileAge="1666082317966" FileType="45637" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2022-10-18, 14:18:21" FileAge="1666082901285" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Blue.h" FileDate="2022-10-18, 14:23:32" FileAge="1666083212590" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2022-10-18, 14:18:21" FileAge="1666082901292" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/ExtIntLdd1.h" FileDate="2022-10-18, 14:19:34" FileAge="1666082974772" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/Blue.c" FileDate="2022-10-18, 14:23:32" FileAge="1666083212595" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/EInt1.h" FileDate="2022-10-18, 14:19:34" FileAge="1666082974769" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/ExtIntLdd1.c" FileDate="2022-10-18, 14:19:34" FileAge="1666082974784" FileType="45637" CompNumb="11" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>8</CodeGenReference>
+</CodeGenerationInfo>
